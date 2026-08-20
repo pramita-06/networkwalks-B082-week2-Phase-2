@@ -319,9 +319,16 @@ Nmap / Zenmap Official Website
 
 This project follows the procedure and tasks provided in the Week 2 Project Module 5 assignment.
 
+
 👩‍💻 Project Type
 
 Cybersecurity | Network Scanning | Network Discovery | Nmap | Zenmap
 
 Purpose: Educational cybersecurity and network analysis
+
+👩‍💻 Author
+Pramita Shetty
+
+Cybersecurity | Network Security | Ethical Hacking
+
 
